@@ -1,6 +1,7 @@
 # techstack
 
-**OS:** Windows, ubuntu, RHEL | **Compiled:** Java, C++ | **Scripting:** Python, bash, PowerShell, batch | **DSL:** ARM, bicep, markdown  
+## **OS:** 
+Windows, ubuntu, RHEL | **Compiled:** Java, C++ | **Scripting:** Python, bash, PowerShell, batch | **DSL:** ARM, bicep, markdown  
 
 **Public Cloud:** Azure (in-depth and cutting-edge knowledge, continual usage of following control and data plane services: AI&ML, Analytics, Compute, Databases, Developer Tools, DevOps, Identity, IoT, Management and Governance, Security, Storage) 
 
