@@ -21,6 +21,8 @@
 
 **API:** Flask and Streamlit (Python), Java Spring Boot (basic) 
 
+**Documentation**: Javadocs, pydocs, Sphinx, Swagger
+
 **SRE and Observability:** Azure Application Insights, Azure Monitor, Kusto Query Language
 
 **Theoretical**: Advanced graduate level in linear algebra, calculus and stochastic calculus, optimisation theory, statistics
