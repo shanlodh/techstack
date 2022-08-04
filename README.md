@@ -15,7 +15,7 @@ Object Storage (Data Lakehouse): Azure Data Lake Gen 2, Azure Synapse, HDFS
 
 **Visualisation:** PowerBI, Kibana, matplotlib, Bloom (Neo4J) | Architecture: Visio, draw.io, Archi, Gliffy, mermaid.js 
 
-**CI/CD:** git, GitHub, Azure DevOps (Repos, Artifacts, Test Plans), Jenkins Agile: Atlassian CLOUD suite (JIRA, JQL, Confluence) 
+**CI/CD:** git, GitHub, Azure DevOps (Repos, Artifacts, Test Plans), Jenkins **Agile:** Atlassian CLOUD suite (JIRA, JQL, Confluence) 
 
 **Containers:** Docker, Docker Hub and Azure Container Registry, Azure Container Instances and Azure Container Apps
 
