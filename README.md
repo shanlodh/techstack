@@ -17,8 +17,10 @@ Object Storage (Data Lakehouse): Azure Data Lake Gen 2, Azure Synapse, HDFS
 
 **CI/CD:** git, GitHub, Azure DevOps (Repos, Artifacts, Test Plans), Jenkins Agile: Atlassian CLOUD suite (JIRA, JQL, Confluence) 
 
+**Containers:** Docker, Docker Hub and Azure Container Registry, Azure Container Instances and Azure Container Apps
+
 **API:** Flask and Streamlit (Python), Java Spring Boot (basic) 
 
-**SRE and Observability:** Azure Application Insights, Kusto Query Language
+**SRE and Observability:** Azure Application Insights, Azure Monitor, Kusto Query Language
 
 **Theoretical**: Advanced graduate level in linear algebra, calculus and stochastic calculus, optimisation theory, statistics
