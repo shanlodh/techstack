@@ -9,13 +9,17 @@
 
 **Data Transformation:** dbt, Dagster, Spark, Azure Data Factory and Synapse Analytics pipelines 
 
+**Data Governance:** Apache Atlas, Azure Purview, Informatica MDM, Experian Aperture 
+
 **Streaming Data:** Apache Kafka, Apache Flink, Azure Event Hub, Azure Functions (Python sdk); lambda, kappa processing patterns 
 
 **Machine and Deep Learning:** Azure ML, regression (statsmodel), classification (sklearn), image recognition (keras), NLP (spaCy) 
 
 **Visualisation:** PowerBI, Kibana, matplotlib, Bloom (Neo4J) | **Architecture:** Visio, draw.io, Archi, Gliffy, mermaid.js 
 
-**CI/CD:** git, GitHub, Azure DevOps (Repos, Artifacts, Test Plans), Jenkins **Agile:** Atlassian CLOUD suite (JIRA, JQL, Confluence) 
+**CI/CD:** git, GitHub, GitHub a Azure DevOps (Repos, Artifacts, Test Plans), Jenkins **Agile:** Atlassian CLOUD suite (JIRA, JQL, Confluence) 
+
+**MLOps**: Azure ML, GitHub Actions, MLFlow, dvc, DagsHub
 
 **Containers:** Docker, Docker Hub and Azure Container Registry, Azure Container Instances and Azure Container Apps
 
