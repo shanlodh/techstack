@@ -19,7 +19,7 @@
 
 **CI/CD:** git, GitHub, GitHub a Azure DevOps (Repos, Artifacts, Test Plans), Jenkins **Agile:** Atlassian CLOUD suite (JIRA, JQL, Confluence) 
 
-**MLOps**: Azure ML, GitHub Actions, MLFlow, dvc, DagsHub
+**MLOps**: Azure ML, GitHub Actions, MLFlow, dvc, DagsHub, NannyML 
 
 **Containers:** Docker, Docker Hub and Azure Container Registry, Azure Container Instances and Azure Container Apps
 
