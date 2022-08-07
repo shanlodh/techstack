@@ -15,17 +15,23 @@
 
 **Machine and Deep Learning:** Azure ML, regression (statsmodel), classification (sklearn), image recognition (keras), NLP (spaCy) 
 
-**Visualisation:** PowerBI, Kibana, matplotlib, Bloom (Neo4J) | **Architecture:** Visio, draw.io, Archi, Gliffy, mermaid.js 
+**Visualisation:** PowerBI, Kibana, matplotlib, Bloom (Neo4J) 
 
-**CI/CD:** git, GitHub, GitHub a Azure DevOps (Repos, Artifacts, Test Plans), Jenkins **Agile:** Atlassian CLOUD suite (JIRA, JQL, Confluence) 
+**Architecture:** Visio, draw.io, Archi, Gliffy, mermaid.js 
+
+**Testing**: unittest, pytest, tox, coverage, pytest-benchmark, bandit, robot, selenium
+
+**CI/CD:** git, GitHub, GitHub Actions, Azure DevOps (Repos, Artifacts, Test Plans), Jenkins 
+
+**Collaboration Tools:** Atlassian CLOUD suite (JIRA, JQL, Dependency Mapper for JIRA, Confluence) 
 
 **MLOps**: Azure ML, GitHub Actions, MLFlow, dvc, DagsHub, NannyML 
 
 **Containers:** Docker, Docker Hub and Azure Container Registry, Azure Container Instances and Azure Container Apps
 
-**API:** Flask and Streamlit (Python), Java Spring Boot (basic) 
+**Apps:** Flask and Streamlit (Python), Java Spring Boot (basic) 
 
-**Documentation**: Javadocs, pydocs, Sphinx, Swagger
+**Documentation**: pydocs + (MkDocs, Sphinx), javadocs, Swagger
 
 **SRE and Observability:** Azure Application Insights, Azure Monitor, Kusto Query Language
 
