@@ -28,7 +28,7 @@
 
 **Containers:** Docker, Docker Hub and Azure Container Registry, Azure Container Instances and Azure Container Apps
 
-**Apps:** Flask and Streamlit (Python), Java Spring Boot (basic) 
+**Apps:** Flask, Dash and Streamlit (Python), Java Spring Boot (basic) 
 
 **Documentation**: pydocs + (MkDocs, Sphinx), javadocs, Swagger
 
