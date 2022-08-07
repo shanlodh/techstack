@@ -4,8 +4,9 @@
 
 **Public Cloud:** Azure (in-depth and cutting-edge knowledge, continual usage of following control and data plane services: AI&ML, Analytics, Compute, Databases, Developer Tools, DevOps, Identity, IoT, Management and Governance, Security, Storage) 
 
-**RDBMS:** MS SQL Server, Oracle, MySQL | **Other DBs:** NOSQL (ElasticSearch with Python sdk) and Graph (Neo4J with Cypher) 
-**Object Storage (Data Lakehouse):** Azure Data Lake Gen 2, Azure Synapse, HDFS  
+**RDBMS:** MS SQL Server, Oracle, MySQL 
+**Other DBs:** Document (ElasticSearch with Python sdk) and Graph (Neo4J with Cypher) 
+**Object Storage (Data Lakehouse):** Azure Data Lake Gen 2, HDFS  
 
 **Data Transformation:** dbt, Dagster, Spark, Azure Data Factory and Synapse Analytics pipelines 
 
