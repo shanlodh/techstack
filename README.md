@@ -22,7 +22,7 @@
 
 **CI/CD:** git, GitHub, GitHub Actions, Azure DevOps (Repos, Artifacts, Test Plans), Jenkins 
 
-**Collaboration Tools:** Atlassian CLOUD suite (JIRA, JQL, Dependency Mapper for JIRA, Confluence) 
+**Collaboration Tools:** Atlassian CLOUD suite (JIRA, JQL, Confluence) 
 
 **MLOps**: Azure ML, GitHub Actions, MLFlow, dvc, DagsHub, NannyML 
 
