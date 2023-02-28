@@ -20,7 +20,7 @@
 
 **Testing**: junit, unittest, pytest, tox, coverage, pytest-benchmark, bandit, robot, selenium
 
-**CI/CD:** git, GitHub, GitHub Actions, Azure DevOps (Repos, Artifacts, Test Plans), Jenkins 
+**CI/CD:** git, GitHub, GitHub Actions, Azure DevOps (Repos, Artifacts, Test Plans), MLFlow, Jenkins 
 
 **Collaboration Tools:** Atlassian CLOUD suite (JIRA, JQL, Confluence) 
 
