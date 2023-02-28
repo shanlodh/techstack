@@ -18,7 +18,7 @@
 
 **Architecture:** Visio, draw.io, Archi, Gliffy, mermaid.js 
 
-**Testing**: unittest, pytest, tox, coverage, pytest-benchmark, bandit, robot, selenium
+**Testing**: junit, unittest, pytest, tox, coverage, pytest-benchmark, bandit, robot, selenium
 
 **CI/CD:** git, GitHub, GitHub Actions, Azure DevOps (Repos, Artifacts, Test Plans), Jenkins 
 
@@ -28,10 +28,10 @@
 
 **Containers:** Docker, Docker Hub and Azure Container Registry, Azure Container Instances and Azure Container Apps
 
-**Apps:** Flask, Dash and Streamlit (Python), Java Spring Boot (basic) 
+**APIs:** Flask, Dash, FastAPI and Streamlit (Python), Spring Boot (Java) 
 
 **Documentation**: pydocs + (MkDocs, Sphinx), javadocs, Swagger
 
-**SRE and Observability:** Azure Application Insights, Azure Monitor, Kusto Query Language
+**SRE and Observability:** Azure Application Insights, Azure Monitor, Kusto Query Language, Splunk
 
 **Theoretical**: Advanced graduate level in linear algebra, calculus and stochastic calculus, optimisation theory, statistics
